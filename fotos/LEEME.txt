@@ -1,0 +1,3 @@
+Sube aqui las fotos de los trabajos (formato .jpg).
+Nombres sugeridos: bano-1-antes.jpg, bano-1-despues.jpg, cocina-2-antes.jpg, ...
+Despues anade el trabajo a la lista TRABAJOS dentro de index.html.
